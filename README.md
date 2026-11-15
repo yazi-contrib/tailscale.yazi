@@ -95,7 +95,7 @@ the calls is not in the tests.
 ## The yazi-contrib ecosystem
 
 Plugins of Yazi, one repository for each: `viewer.yazi`, `layout.yazi`, `starship.yazi`, `finder.yazi`,
-`tailscale.yazi`.
+`tailscale.yazi`, `rclone.yazi`.
 
 ## License
 
